@@ -2,7 +2,7 @@
 
 This is a simple Todo List app that allows you to keep track of your daily tasks. You can add, delete, edit and mark tasks as completed.
 
-![screenshot](./src/assets/images/screenshot.png)
+Live Link : - https://to-do-app-psi-taupe.vercel.app/
 
 ## Features
 
@@ -18,7 +18,7 @@ This is a simple Todo List app that allows you to keep track of your daily tasks
 
 To get started with this project, follow these steps:
 
-1. Clone this repository to your local machine using git clone https://github.com/RaminMikayilov/Redux-Todo-List.git
+1. Clone this repository to your local machine using git clone https://github.com/Mishra-je/ToDo-App.git
 2. Navigate to the project directory using cd redux-todo-list
 3. Install the necessary dependencies using npm install
 4. Start the development server using npm run dev(because I use vite react)
@@ -48,6 +48,5 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to the branch (git push origin feature/your-feature-name)
 5. Create a new pull request
 
-## License
 
-This project is licensed under the MIT License - [MIT](https://choosealicense.com/licenses/mit/)
+# Created By : - SACHIN MISHRA
